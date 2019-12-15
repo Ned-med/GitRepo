@@ -1,0 +1,29 @@
+#Dev1
+create gihub repository intilized with readme.md
+clone this remote repo into your local repo
+create 2 file index.html and style.css and populate this files and commit.
+push your changes to you remote repo
+#Dev2
+fork Git-workflow from Dev1
+clone the repo to your local repo
+create a branch named renommer-entete and make a changes to the title (commit your changes)
+
+#Dev1
+create a branch called changer-couleur
+change the color of the title
+merge your branch with your master branch
+push everything to your remote repo
+create a pull request to dev2
+
+#Dev2 
+accepte pull request and merege
+pull your remote repo
+merge your branch with the master branch you'll find conflict (resolve conflict and commit)
+push everything and do a pull request to Dev1
+
+#Dev1
+accepte pull request and merge 
+synchronizer votre repo local
+
+
+
